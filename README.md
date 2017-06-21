@@ -18,8 +18,11 @@ Image style transfer based on Pytorch and VGG19
 
 -----
 
-<br>
+<br><br>
 更多请查看相关博客：<br>
+
 * [人人都是毕加索](http://frendy.vip/machine-learning/2017/06/20/pytorch-image-style-transfer.html)
+
 * 简书：http://www.jianshu.com/u/d6d2a2e40278
+
 * 微信号：frendy-share
